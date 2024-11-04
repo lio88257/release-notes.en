@@ -555,7 +555,7 @@ New [!DNL Workfront] tutorials and events on Experience League.
 |October 2024|[View milestones](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/view-milestones)|Video |Learn how to view milestones in a project, plus use the milestone view in the Project area.|
 |October 2024|[Create a project template and learn about Blueprints](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template)|Video |Learn to create a project template from scratch and from an existing project, and understand how Blueprints can give you access to a world of useful project templates created by Workfront experts.|
 |October 2024|[Share a template](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/share-a-template)|Video |As an Adobe Workfront administrator, you can grant users access to view or edit templates when you assign their access level. A user must have a Plan license to have access to Edit templates.|
-|October 2024|[Understand basic text mode for filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters)|Video |Learn what text mode is, what camel case is,and some basic |
+|October 2024|[Understand basic text mode for filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters)|Video |Learn about text mode, camel case, and some basic plug-and-play text modes that you can use in your views in Workfront.|
 
 <!--
 ### New [!DNL Workfront] support knowledge base
